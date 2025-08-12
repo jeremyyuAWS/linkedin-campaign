@@ -1,0 +1,106 @@
+[
+  {
+    "id": "camp_001",
+    "name": "Q4 Developer Persona - Cloud Solutions",
+    "status": "active",
+    "budget": {
+      "total": 25000,
+      "spent": 18750,
+      "remaining": 6250
+    },
+    "metrics": {
+      "impressions": 125000,
+      "clicks": 3200,
+      "ctr": 2.56,
+      "cpc": 5.86,
+      "conversions": 42,
+      "spend": 18750,
+      "cost_per_conversion": 446.43
+    },
+    "trend": "declining",
+    "last_7_days": {
+      "impressions": 28000,
+      "clicks": 560,
+      "ctr": 2.0,
+      "spend": 3280
+    }
+  },
+  {
+    "id": "camp_002", 
+    "name": "Enterprise CTO Outreach - AI Platform",
+    "status": "active",
+    "budget": {
+      "total": 40000,
+      "spent": 12500,
+      "remaining": 27500
+    },
+    "metrics": {
+      "impressions": 85000,
+      "clicks": 2890,
+      "ctr": 3.4,
+      "cpc": 4.33,
+      "conversions": 78,
+      "spend": 12500,
+      "cost_per_conversion": 160.26
+    },
+    "trend": "improving",
+    "last_7_days": {
+      "impressions": 18500,
+      "clicks": 680,
+      "ctr": 3.68,
+      "spend": 2944
+    }
+  },
+  {
+    "id": "camp_003",
+    "name": "Mid-Market SaaS Leaders - Integration Tools", 
+    "status": "paused",
+    "budget": {
+      "total": 15000,
+      "spent": 14200,
+      "remaining": 800
+    },
+    "metrics": {
+      "impressions": 95000,
+      "clicks": 1800,
+      "ctr": 1.89,
+      "cpc": 7.89,
+      "conversions": 15,
+      "spend": 14200,
+      "cost_per_conversion": 946.67
+    },
+    "trend": "poor",
+    "last_7_days": {
+      "impressions": 8500,
+      "clicks": 145,
+      "ctr": 1.71,
+      "spend": 1144
+    }
+  },
+  {
+    "id": "camp_004",
+    "name": "Startup Founders - Growth Analytics",
+    "status": "active",
+    "budget": {
+      "total": 20000,
+      "spent": 8900,
+      "remaining": 11100
+    },
+    "metrics": {
+      "impressions": 110000,
+      "clicks": 4200,
+      "ctr": 3.82,
+      "cpc": 2.12,
+      "conversions": 125,
+      "spend": 8900,
+      "cost_per_conversion": 71.20
+    },
+    "trend": "strong",
+    "last_7_days": {
+      "impressions": 22000,
+      "clicks": 890,
+      "ctr": 4.05,
+      "spend": 1887
+    }
+  }
+]

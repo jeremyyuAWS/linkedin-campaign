@@ -1,0 +1,46 @@
+[
+  {
+    "id": "alert_001",
+    "type": "performance_drop",
+    "priority": "high",
+    "title": "CTR Decline Detected",
+    "message": "Q4 Developer Persona campaign CTR dropped 24% in the last 7 days. Possible creative fatigue detected.",
+    "campaign": "Q4 Developer Persona - Cloud Solutions",
+    "recommendation": "Consider refreshing ad creatives or adjusting targeting parameters.",
+    "timestamp": "2024-01-15T14:30:00Z",
+    "status": "unread"
+  },
+  {
+    "id": "alert_002", 
+    "type": "budget_warning",
+    "priority": "medium",
+    "title": "Budget Threshold Reached",
+    "message": "Mid-Market SaaS Leaders campaign has spent 94.7% of allocated budget with 12 days remaining.",
+    "campaign": "Mid-Market SaaS Leaders - Integration Tools",
+    "recommendation": "Pause campaign or increase budget allocation to maintain delivery.",
+    "timestamp": "2024-01-15T11:15:00Z", 
+    "status": "unread"
+  },
+  {
+    "id": "alert_003",
+    "type": "opportunity",
+    "priority": "low", 
+    "title": "High-Performing Audience Identified",
+    "message": "Startup Founders campaign shows exceptional performance with 4.05% CTR. Consider scaling budget.",
+    "campaign": "Startup Founders - Growth Analytics",
+    "recommendation": "Increase daily budget by 50% to capitalize on strong performance.",
+    "timestamp": "2024-01-15T09:45:00Z",
+    "status": "unread"
+  },
+  {
+    "id": "alert_004",
+    "type": "optimization",
+    "priority": "medium",
+    "title": "Audience Expansion Opportunity", 
+    "message": "Consider adding 'VP, Data Science' to Enterprise CTO campaign. Similar roles show 2x higher engagement.",
+    "campaign": "Enterprise CTO Outreach - AI Platform",
+    "recommendation": "Add suggested job titles to targeting criteria.",
+    "timestamp": "2024-01-14T16:20:00Z",
+    "status": "read"
+  }
+]

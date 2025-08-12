@@ -1,0 +1,86 @@
+{
+  "job_titles": [
+    {
+      "title": "Software Engineer",
+      "impressions": 45000,
+      "clicks": 1800,
+      "ctr": 4.0,
+      "conversions": 25,
+      "cost_per_conversion": 120.50
+    },
+    {
+      "title": "Engineering Manager", 
+      "impressions": 28000,
+      "clicks": 980,
+      "ctr": 3.5,
+      "conversions": 18,
+      "cost_per_conversion": 89.75
+    },
+    {
+      "title": "CTO",
+      "impressions": 12000,
+      "clicks": 480,
+      "ctr": 4.0,
+      "conversions": 12,
+      "cost_per_conversion": 156.25
+    },
+    {
+      "title": "VP Engineering",
+      "impressions": 18000,
+      "clicks": 630,
+      "ctr": 3.5,
+      "conversions": 15,
+      "cost_per_conversion": 98.40
+    },
+    {
+      "title": "Technical Lead",
+      "impressions": 35000,
+      "clicks": 1200,
+      "ctr": 3.43,
+      "conversions": 20,
+      "cost_per_conversion": 110.80
+    }
+  ],
+  "company_sizes": [
+    {
+      "size": "1-10 employees",
+      "impressions": 25000,
+      "clicks": 950,
+      "ctr": 3.8,
+      "conversions": 28,
+      "cost_per_conversion": 85.50
+    },
+    {
+      "size": "11-50 employees",
+      "impressions": 35000,
+      "clicks": 1200,
+      "ctr": 3.43,
+      "conversions": 32,
+      "cost_per_conversion": 95.25
+    },
+    {
+      "size": "51-200 employees",
+      "impressions": 45000,
+      "clicks": 1350,
+      "ctr": 3.0,
+      "conversions": 25,
+      "cost_per_conversion": 145.60
+    },
+    {
+      "size": "201-500 employees",
+      "impressions": 28000,
+      "clicks": 798,
+      "ctr": 2.85,
+      "conversions": 12,
+      "cost_per_conversion": 198.75
+    },
+    {
+      "size": "500+ employees",
+      "impressions": 52000,
+      "clicks": 1456,
+      "ctr": 2.8,
+      "conversions": 18,
+      "cost_per_conversion": 245.30
+    }
+  ]
+}

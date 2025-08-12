@@ -1,0 +1,47 @@
+[
+  {
+    "id": "creative_001",
+    "campaign_id": "camp_001",
+    "type": "single_image",
+    "headline": "Accelerate Development with Cloud-Native Tools",
+    "description": "Join 50,000+ developers using our platform to build, deploy, and scale applications faster than ever.",
+    "image_url": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg",
+    "performance": {
+      "impressions": 45000,
+      "clicks": 1200,
+      "ctr": 2.67,
+      "cpc": 5.95
+    },
+    "status": "active"
+  },
+  {
+    "id": "creative_002", 
+    "campaign_id": "camp_001",
+    "type": "single_image",
+    "headline": "Build Better. Deploy Faster. Scale Smarter.",
+    "description": "Discover why top engineering teams choose our cloud platform for mission-critical applications.",
+    "image_url": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
+    "performance": {
+      "impressions": 38000,
+      "clicks": 950,
+      "ctr": 2.5,
+      "cpc": 5.89
+    },
+    "status": "active"
+  },
+  {
+    "id": "creative_003",
+    "campaign_id": "camp_002", 
+    "type": "single_image",
+    "headline": "AI That Actually Drives Business Results",
+    "description": "See how enterprise leaders are using our AI platform to reduce costs by 40% and increase efficiency.",
+    "image_url": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg",
+    "performance": {
+      "impressions": 42500,
+      "clicks": 1450,
+      "ctr": 3.41,
+      "cpc": 4.31
+    },
+    "status": "active"
+  }
+]
